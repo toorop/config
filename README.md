@@ -28,7 +28,7 @@ the Python Standard Library.
 
 ## Installation
 
-	go get github.com/toorop/config
+	go get github.com/Toorop/config
 
 ## Operating instructions
 
